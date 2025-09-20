@@ -1,0 +1,5 @@
+a = int(input('Введите a: '))
+b = int(input('Введите b: '))
+c = int(input('Введите c: '))
+m = max(a, b, c)
+print (f'Наибольшее число: {m}')
